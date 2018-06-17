@@ -1,11 +1,11 @@
-[Demo API](https://usersdemo.herokuapp.com)
+[Demo API - usersdemo.herokuapp.com](https://usersdemo.herokuapp.com)
 ======
 
 Clone of Ben Howdle's reqres.in
-https://github.com/benhowdle89/reqres
-https://reqres.in/
 
-[Docs & Demos ⇒](http://reqres.in)
+https://github.com/benhowdle89/reqres
+
+https://reqres.in
 
 ## Installation
 
