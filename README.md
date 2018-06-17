@@ -1,7 +1,9 @@
-ReqRes
+[Demo API](https://usersdemo.herokuapp.com)
 ======
 
-ReqRes is a bare-bones ExpressJS application.
+Clone of Ben Howdle's reqres.in
+https://github.com/benhowdle89/reqres
+https://reqres.in/
 
 [Docs & Demos ⇒](http://reqres.in)
 
