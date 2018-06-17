@@ -1,4 +1,4 @@
-[Demo API - usersdemo.herokuapp.com](https://usersdemo.herokuapp.com)
+Demo API : [www.usersdemo.herokuapp.com](https://usersdemo.herokuapp.com)
 ======
 
 Clone of Ben Howdle's reqres.in
